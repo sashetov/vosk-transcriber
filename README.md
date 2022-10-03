@@ -6,7 +6,7 @@
 ```
 ./run-test.sh
 ```
-# does first file of transcribes your wav file
+# transcribes your wav file to first draft of subtite track
 ```
 ./transcribe-srt your_file.wav
 ```
