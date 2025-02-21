@@ -3,3 +3,6 @@ test.wav
 result.json
 result.srt
 venv
+*.srt
+*.wav
+*.mp3
